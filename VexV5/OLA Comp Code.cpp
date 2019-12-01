@@ -1,7 +1,7 @@
 /*----------------------------------------------------------------------------*/
 /*                                                                            */
 /*    Module:       main.cpp                                                  */
-/*    Author:       C:\Users\kavin_h3kinzq                                    */
+/*    Author:       C:\Users\VarunSendilraj                                   */
 /*    Created:      Tue Oct 01 2019                                           */
 /*    Description:  Ola 10/05/2019 Competition                                */
 /*                                                                            */
